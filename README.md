@@ -6,10 +6,6 @@ The Courier Management System API is a comprehensive solution for managing couri
 
 ## Technologies Used
 
-- **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
 
 - **Backend:**
   - Java
